@@ -315,15 +315,11 @@ h1 {
   transform: translateY(-2px);
 }
 .serviceSection{
-width: 1440;
-height: 997;
-top: 2147.5px;
-padding-top: 91px;
-padding-right: 81px;
-padding-bottom: 91px;
-padding-left: 81px;
-gap: 10px;
-background: rgba(249, 249, 249, 1);
+    width: 1440px; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+    background: rgba(249, 249, 249, 1);
 }
 .frame886{
 width: 1278;
